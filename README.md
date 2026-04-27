@@ -55,12 +55,12 @@ yfinance API → EDA → Feature Engineering → Model Training → Forecasting 
 
 ## Visualizations
 
-1. **Price & Volume Dashboard** — 6-panel matplotlib figure: closing price, volume bars, high-low range, returns distribution, monthly averages, rolling 30-day volatility
-2. **3D Interactive Scatter** — Plotly 3D plot of time × price × volume, color-encoded by price level with hover tooltips
-3. **Forecast Timeline** — Historical + predicted prices overlaid with confidence bands, interactive Plotly chart to Dec 2026
-4. **Feature Importance** — Top-20 XGBoost features, horizontal bar chart with Plasma colorscale
-5. **Correlation Heatmap** — Interactive Plotly heatmap of 10 key engineered features
-6. **Time Series Decomposition** — Weekly resampled trend, seasonality, and residuals (multiplicative model, period=52)
+1. **Price & Volume Dashboard** : 6-panel matplotlib figure: closing price, volume bars, high-low range, returns distribution, monthly averages, rolling 30-day volatility
+2. **3D Interactive Scatter** : Plotly 3D plot of time × price × volume, color-encoded by price level with hover tooltips
+3. **Forecast Timeline** : Historical + predicted prices overlaid with confidence bands, interactive Plotly chart to Dec 2026
+4. **Feature Importance** : Top-20 XGBoost features, horizontal bar chart with Plasma colorscale
+5. **Correlation Heatmap** : Interactive Plotly heatmap of 10 key engineered features
+6. **Time Series Decomposition** : Weekly resampled trend, seasonality, and residuals (multiplicative model, period=52)
 
 ---
 

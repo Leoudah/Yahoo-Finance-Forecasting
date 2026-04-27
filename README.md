@@ -1,4 +1,4 @@
-# Bitcoin Price Forecasting with Machine Learning
+# Bitcoin & Other Yahoo Finance Index Price Forecasting with Machine Learning
 
 > 10-year historical analysis of BTC-USD with XGBoost time series forecasting, technical indicator engineering, and interactive 3D visualizations.
 
